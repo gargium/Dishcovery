@@ -49,9 +49,12 @@ Go ahead and build the project, making sure to select an iPhone with a target of
 * All places recognized by Google's Places API are valid, although we only want the places that are restaurants. 
 
 ## Screenshots 
-![alt text](https://www.dropbox.com/s/5oqhp1lcv68jamg/Screen%20Shot%202015-12-29%20at%2010.10.37%20PM.png?dl=1 "Logo Title Text 1")
-![alt text](https://www.dropbox.com/s/ll8whiqgaed8kr5/Screen%20Shot%202015-12-29%20at%2010.09.24%20PM.png?dl=1 "Logo Title Text 1")
-![alt text](https://www.dropbox.com/s/2da35xysxufsi4c/Screen%20Shot%202015-12-29%20at%2010.09.17%20PM.png?dl=1 "Logo Title Text 1")
+Place verification:
+![alt text](https://www.dropbox.com/s/2da35xysxufsi4c/Screen%20Shot%202015-12-29%20at%2010.09.17%20PM.png?dl=1)
+Thumbnail retrieval from Google Images: 
+![alt text](https://www.dropbox.com/s/5oqhp1lcv68jamg/Screen%20Shot%202015-12-29%20at%2010.10.37%20PM.png?dl=1)
+Dishes + Ratings: 
+![alt text](https://www.dropbox.com/s/ll8whiqgaed8kr5/Screen%20Shot%202015-12-29%20at%2010.09.24%20PM.png?dl=1 
 
 ## Future Plans
 * Include Google's Place Picker code to allow the user to select a restaurant from anywhere else. 
