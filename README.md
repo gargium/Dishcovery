@@ -20,7 +20,7 @@ Compatibility: iPhone on iOS 9.2
 
 ## Installation and Running
 
-To fully run the project, you will need your own API Key for Google Custom Search as well as Google Maps API's. Get them [here](developer.google.com).
+To fully run the project, you will need your own API Key for Google Custom Search as well as Google Maps API's. Get them [here](https://www.developer.google.com).
 
 ### Xcode and iOS Simulator
 After cloning the repo, you'll need the Google Maps Pod. Open up a terminal window, navigate to the project directory, and type the following in: 
